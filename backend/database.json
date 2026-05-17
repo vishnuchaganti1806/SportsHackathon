@@ -1,0 +1,390 @@
+{
+  "users": [
+    {
+      "phone": "9876543210",
+      "password": "kalyan@123",
+      "role": "user",
+      "fullName": "Kalyan Ram A",
+      "_id": "rqqmixbmgmobxitxz",
+      "createdAt": "2026-04-23T20:23:40.056Z",
+      "interests": {
+        "sport": "Tennis",
+        "skill": "Beginner",
+        "location": "Downtown",
+        "playtime": "Weekends"
+      }
+    },
+    {
+      "phone": "1234567890",
+      "password": "abhinaya@123",
+      "role": "college",
+      "fullName": "Abhinaya",
+      "_id": "f6ymzu0s5mobxl4i3",
+      "createdAt": "2026-04-23T20:25:27.051Z"
+    },
+    {
+      "phone": "1234567899",
+      "password": "abhinaya@123",
+      "role": "college",
+      "fullName": "Abhi",
+      "_id": "jq5k6i89fmobxstys",
+      "createdAt": "2026-04-23T20:31:26.644Z"
+    },
+    {
+      "phone": "1357902468",
+      "password": "likithsai@123",
+      "role": "ground_owner",
+      "fullName": "Likith",
+      "_id": "5mcy4certmobxvmfy",
+      "createdAt": "2026-04-23T20:33:36.862Z"
+    },
+    {
+      "phone": "5432167890",
+      "password": "12345678",
+      "role": "coach",
+      "fullName": "Vishnu",
+      "_id": "nmd9m86e0mobybfmg",
+      "createdAt": "2026-04-23T20:45:54.520Z"
+    },
+    {
+      "phone": "1357924680",
+      "password": "12345678",
+      "role": "ground_owner",
+      "fullName": "Abhillash",
+      "_id": "tmmq7ted2moc0mes4",
+      "createdAt": "2026-04-23T21:50:25.876Z"
+    },
+    {
+      "phone": "8179946044",
+      "password": "1234512345",
+      "role": "admin",
+      "fullName": "Nandini",
+      "_id": "vb1y61m25moc29hld",
+      "createdAt": "2026-04-23T22:36:22.225Z"
+    },
+    {
+      "phone": "9999999999",
+      "password": "99999999",
+      "role": "user",
+      "fullName": "sreeharsha",
+      "_id": "qtanzbhbbmoc46jb3",
+      "createdAt": "2026-04-23T23:30:03.711Z",
+      "interests": {
+        "sport": "Tennis",
+        "skill": "Intermediate",
+        "location": "Downtown",
+        "playtime": "Weekends"
+      }
+    },
+    {
+      "phone": "8106733628",
+      "password": "12345678",
+      "role": "admin",
+      "fullName": "Nandini",
+      "_id": "yicak3n8tmocapiwg",
+      "createdAt": "2026-04-24T02:32:47.344Z"
+    },
+    {
+      "phone": "1234512345",
+      "password": "12345678",
+      "role": "admin",
+      "fullName": "Nandu",
+      "_id": "v8jzv4rg4mocdnd3m",
+      "createdAt": "2026-04-24T03:55:05.362Z"
+    },
+    {
+      "phone": "9123456789",
+      "password": "password123",
+      "role": "user",
+      "fullName": "",
+      "_id": "una5ju7ykmocgn6ys",
+      "createdAt": "2026-04-24T05:18:56.260Z"
+    }
+  ],
+  "events": [
+    {
+      "name": "circket event",
+      "date": "2026-04-25",
+      "location": "Main court",
+      "desc": "circket event,Main court",
+      "formLink": "https://forms.gle/Sh5UMrNZeXecStxa7",
+      "category": "Upcoming",
+      "_id": "lazp8d3f7mobzbt6j",
+      "createdAt": "2026-04-23T21:14:11.707Z"
+    },
+    {
+      "name": "Volley ball,",
+      "date": "2026-04-28",
+      "location": "sub court",
+      "desc": "Volley ball,Rvrjc,Guntur,Ap",
+      "formLink": "https://forms.gle/Sh5UMrNZeXecStxa7",
+      "category": "Upcoming",
+      "_id": "pmg7klrbqmoc1k7i7",
+      "createdAt": "2026-04-23T22:16:42.751Z"
+    },
+    {
+      "name": "shuttle",
+      "date": "2026-04-30",
+      "location": "MAin court",
+      "desc": "Shuttle Event ",
+      "formLink": "https://forms:/minijd",
+      "category": "Upcoming",
+      "_id": "3kvm5ppgzmocaivh1",
+      "createdAt": "2026-04-24T02:27:37.045Z"
+    }
+  ],
+  "grounds": [
+    {
+      "name": "arena",
+      "location": "guntur",
+      "sport": "Cricket",
+      "price": "₹200/hr",
+      "timings": "6.00-7.00",
+      "images": [
+        "/uploads/grounds/tmmq7ted2moc0mes4_1776981507655.png"
+      ],
+      "image": "/uploads/grounds/tmmq7ted2moc0mes4_1776981507655.png",
+      "status": "Booked",
+      "condition": "dry",
+      "distance": "1.0 km",
+      "ownerId": "tmmq7ted2moc0mes4",
+      "_id": "r5b70lzuzmoc0wqjp",
+      "createdAt": "2026-04-23T21:58:27.685Z",
+      "updatedAt": "2026-04-23T23:26:57.268Z"
+    },
+    {
+      "name": "ongole",
+      "location": "mgr",
+      "sport": "Cricket",
+      "price": "₹100/hr",
+      "timings": "200",
+      "images": [
+        "/uploads/grounds/tmmq7ted2moc0mes4_1776987103750.png"
+      ],
+      "image": "/uploads/grounds/tmmq7ted2moc0mes4_1776987103750.png",
+      "status": "Booked",
+      "condition": "dry",
+      "distance": "1.0 km",
+      "ownerId": "tmmq7ted2moc0mes4",
+      "_id": "itauy1yzlmoc48oi0",
+      "createdAt": "2026-04-23T23:31:43.752Z",
+      "updatedAt": "2026-04-23T23:33:24.915Z"
+    },
+    {
+      "name": "guntur",
+      "location": "Mgr road",
+      "sport": "Cricket",
+      "price": "₹1000/hr",
+      "timings": "7.00",
+      "images": [
+        "/uploads/grounds/tmmq7ted2moc0mes4_1776997844289.png"
+      ],
+      "image": "/uploads/grounds/tmmq7ted2moc0mes4_1776997844289.png",
+      "status": "Available",
+      "condition": "dry",
+      "distance": "1.0 km",
+      "ownerId": "tmmq7ted2moc0mes4",
+      "_id": "oyy16rry6mocamvyo",
+      "createdAt": "2026-04-24T02:30:44.304Z"
+    },
+    {
+      "name": "Thunder Drome",
+      "location": "Guntur",
+      "sport": "Badminton",
+      "price": "₹350/hr",
+      "timings": "6:00 am to 6:00pm",
+      "images": [
+        "/uploads/grounds/tmmq7ted2moc0mes4_1776998996700.png"
+      ],
+      "image": "/uploads/grounds/tmmq7ted2moc0mes4_1776998996700.png",
+      "status": "Available",
+      "condition": "dry",
+      "distance": "1.0 km",
+      "ownerId": "tmmq7ted2moc0mes4",
+      "_id": "85gd6iz9bmocbbl5x",
+      "createdAt": "2026-04-24T02:49:56.710Z"
+    }
+  ],
+  "bookings": [
+    {
+      "userId": "rqqmixbmgmobxitxz",
+      "groundId": "r5b70lzuzmoc0wqjp",
+      "paymentId": "pay_Sh77Zc15PVBPAk",
+      "orderId": "order_Sh77RNQrQ2hFre",
+      "status": "Payment Done",
+      "_id": "qu7hba5dqmoc3wun5",
+      "createdAt": "2026-04-23T23:22:31.841Z"
+    },
+    {
+      "userId": "rqqmixbmgmobxitxz",
+      "groundId": "r5b70lzuzmoc0wqjp",
+      "groundName": "arena",
+      "ownerId": "tmmq7ted2moc0mes4",
+      "paymentId": "pay_Sh7CEZ50pm73PA",
+      "orderId": "order_Sh7C4VmITa9Hfe",
+      "status": "Payment Done",
+      "amount": "₹200/hr",
+      "_id": "fjbbn7bnamoc42jg5",
+      "createdAt": "2026-04-23T23:26:57.269Z"
+    },
+    {
+      "userId": "qtanzbhbbmoc46jb3",
+      "groundId": "itauy1yzlmoc48oi0",
+      "groundName": "ongole",
+      "ownerId": "tmmq7ted2moc0mes4",
+      "paymentId": "pay_Sh7J0W1G1mkV1B",
+      "orderId": "order_Sh7IuP2lCSaa6s",
+      "status": "Payment Done",
+      "amount": "₹100/hr",
+      "_id": "5tniqwi5imoc4auk6",
+      "createdAt": "2026-04-23T23:33:24.918Z"
+    }
+  ],
+  "coaches": [
+    {
+      "name": "Sarah Jenkins",
+      "sport": "Tennis",
+      "exp": "8 years",
+      "price": "₹1200/session",
+      "rating": 4.9,
+      "description": "Former regional champion specializing in tactical play and serve optimization.",
+      "image": "https://images.unsplash.com/photo-1594381898411-846e7d193883?auto=format&fit=crop&q=80&w=400",
+      "verified": true,
+      "_id": "coach_1",
+      "createdAt": "2026-04-24T00:00:00Z"
+    },
+    {
+      "name": "Marcus Thorne",
+      "sport": "Basketball",
+      "exp": "12 years",
+      "price": "₹800/session",
+      "rating": 4.7,
+      "description": "High-intensity training focused on shooting mechanics and defensive positioning.",
+      "image": "https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&q=80&w=400",
+      "verified": true,
+      "_id": "coach_2",
+      "createdAt": "2026-04-24T00:00:00Z"
+    },
+    {
+      "name": "Arjun Rao",
+      "sport": "Cricket",
+      "exp": "15 years",
+      "price": "₹1500/session",
+      "rating": 4.8,
+      "description": "Batting specialist with focus on red-ball and limited-overs techniques.",
+      "image": "https://images.unsplash.com/photo-1533727937480-13aa1f7982c5?auto=format&fit=crop&q=80&w=400",
+      "verified": true,
+      "_id": "coach_3",
+      "createdAt": "2026-04-24T00:00:00Z"
+    },
+    {
+      "name": "vihsnu",
+      "sport": "tennis",
+      "exp": "23",
+      "price": "2345",
+      "description": "",
+      "image": "/uploads/profiles/nmd9m86e0mobybfmg_1776984470786.png",
+      "rating": 5,
+      "reviews": 0,
+      "verified": false,
+      "userId": "nmd9m86e0mobybfmg",
+      "_id": "uxihjgxmpmoc2o8w8",
+      "createdAt": "2026-04-23T22:47:50.792Z",
+      "gallery": [
+        "/uploads/gallery/nmd9m86e0mobybfmg_1776984485809.png"
+      ],
+      "updatedAt": "2026-04-23T22:48:05.818Z"
+    }
+  ],
+  "coachBookings": [
+    {
+      "athleteId": "rqqmixbmgmobxitxz",
+      "athleteInterests": {},
+      "coachId": "uxihjgxmpmoc2o8w8",
+      "coachUserId": "nmd9m86e0mobybfmg",
+      "status": "Active",
+      "sessionTime": "Upcoming",
+      "timestamp": "2026-04-24T03:21:07.894Z",
+      "_id": "mhsv0uu9omoccfoza",
+      "createdAt": "2026-04-24T03:21:07.894Z"
+    },
+    {
+      "athleteId": "rqqmixbmgmobxitxz",
+      "athleteInterests": {},
+      "coachId": "uxihjgxmpmoc2o8w8",
+      "coachUserId": "nmd9m86e0mobybfmg",
+      "status": "Active",
+      "sessionTime": "Upcoming",
+      "timestamp": "2026-04-24T03:47:49.621Z",
+      "_id": "uwia895zzmocde0vp",
+      "createdAt": "2026-04-24T03:47:49.621Z"
+    }
+  ],
+  "rentals": [
+    {
+      "item": "Football Training Cones",
+      "college": "Engineering College FC",
+      "date": "Just now",
+      "userId": "f6ymzu0s5mobxl4i3",
+      "status": "Approved",
+      "_id": "j93c8j5rumobyl8xq",
+      "createdAt": "2026-04-23T20:53:32.414Z",
+      "updatedAt": "2026-04-23T21:14:46.338Z"
+    },
+    {
+      "item": "Pro Tennis Racket",
+      "college": "St. Xavier's College",
+      "date": "Just now",
+      "userId": "f6ymzu0s5mobxl4i3",
+      "status": "Rejected",
+      "_id": "e49k53evxmobym74x",
+      "createdAt": "2026-04-23T20:54:16.737Z",
+      "updatedAt": "2026-04-23T21:14:57.673Z"
+    },
+    {
+      "item": "shuttle bats",
+      "date": "Just now",
+      "userId": "rqqmixbmgmobxitxz",
+      "status": "Approved",
+      "_id": "sw7ady8l5mobzmap2",
+      "createdAt": "2026-04-23T21:22:20.966Z",
+      "updatedAt": "2026-04-23T21:23:19.615Z"
+    },
+    {
+      "item": "shuttle bats",
+      "date": "Just now",
+      "userId": "rqqmixbmgmobxitxz",
+      "status": "Pending",
+      "_id": "0cwn5ngtemocdezdn",
+      "createdAt": "2026-04-24T03:48:34.331Z"
+    }
+  ],
+  "notifications": [],
+  "inventory": [
+    {
+      "name": "shuttle bats",
+      "condition": "Good",
+      "stock": 1,
+      "_id": "skfzt3s3fmobzj911",
+      "createdAt": "2026-04-23T21:19:58.837Z"
+    },
+    {
+      "name": "Volley ball nets",
+      "condition": "Used",
+      "stock": 1,
+      "_id": "szsrzqcl1mocajg2j",
+      "createdAt": "2026-04-24T02:28:03.739Z"
+    }
+  ],
+  "eventRegistrations": [
+    {
+      "eventName": "circket event",
+      "userId": "rqqmixbmgmobxitxz",
+      "status": "Approved",
+      "_id": "hr0xpjisfmobzlnvo",
+      "createdAt": "2026-04-23T21:21:51.396Z",
+      "updatedAt": "2026-04-23T21:23:17.616Z"
+    }
+  ],
+  "coachConnections": []
+}
